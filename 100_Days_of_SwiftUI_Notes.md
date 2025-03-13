@@ -14,9 +14,9 @@ Swift Topics and the projects that they relate to:
 | CoreML, DatePicker, Stepper 				| Better Rest (4)		| [Day 26](https://www.hackingwithswift.com/100/swiftui/26)          |
 | List, Bundle, UITextChecker     		| Word Scramble (5)   		| [Day 29](https://www.hackingwithswift.com/100/swiftui/29) |    
 | Animation  		| Animations (6)    	| [Day 32](https://www.hackingwithswift.com/100/swiftui/32) |
-| @State, @Observable, Showing/Hiding Views, UserDefaults, Codable, Idenitifiable,       		| iExpense (7)   	| [Day 36](https://www.hackingwithswift.com/100/swiftui/36) |
+| @State, @Observable, @AppStorage, Showing/Hiding Views, UserDefaults, Codable, Idenitifiable,       		| iExpense (7)   	| [Day 36](https://www.hackingwithswift.com/100/swiftui/36) |
 |  Resizing Images, ScrollView, NavigationLink, Codable, Grid Layout, Generics, containerRelativeFrame(),  | Moonshot (8)   | [Day 39](https://www.hackingwithswift.com/100/swiftui/39) |
 | NavigationLink, NavigationDestination, Programmatic Nav, NavigationPath, Navbar Appearance customisation,     		| Navigation (9)   		| [Day 43](https://www.hackingwithswift.com/100/swiftui/43) |    
-| URLSession, Codable, Haptics, Validation, @Observable  	| Cupcake Corner (10)		| [Day 49](https://www.hackingwithswift.com/100/swiftui/49) |
-| SwiftData, @Binding    		| Bookworm (11)   		| [Day 53](https://www.hackingwithswift.com/100/swiftui/53) |    
+| URLSession, Codable, Haptics, Validation, @Observable, @Bindable  	| Cupcake Corner (10)		| [Day 49](https://www.hackingwithswift.com/100/swiftui/49) |
+| SwiftData, @Binding, TextEditor    		| Bookworm (11)   		| [Day 53](https://www.hackingwithswift.com/100/swiftui/53) |    
 
