@@ -17,6 +17,6 @@ Swift Topics and the projects that they relate to:
 | @State, @Observable, Showing/Hiding Views, UserDefaults, Codable, Idenitifiable,       		| iExpense (7)   	| [Day 36](https://www.hackingwithswift.com/100/swiftui/36) |
 |  Resizing Images, ScrollView, NavigationLink, Codable, Grid Layout, Generics, containerRelativeFrame(),  | Moonshot (8)   | [Day 39](https://www.hackingwithswift.com/100/swiftui/39) |
 | NavigationLink, NavigationDestination, Programmatic Nav, NavigationPath, Navbar Appearance customisation,     		| Navigation (9)   		| [Day 43](https://www.hackingwithswift.com/100/swiftui/43) |    
-| URLSession, Codable, Haptics, Validation, @Observable  	| Cupcake Corner (10)		| [Day 49](https://www.hackingwithswift.com/books/ios-swiftui/cupcake-corner-introduction) |
-| SwiftData    		| Bookworm (11)   		| [Day 53](https://www.hackingwithswift.com/books/ios-swiftui/bookworm-introduction) |    
+| URLSession, Codable, Haptics, Validation, @Observable  	| Cupcake Corner (10)		| [Day 49](https://www.hackingwithswift.com/100/swiftui/49) |
+| SwiftData, @Binding    		| Bookworm (11)   		| [Day 53](https://www.hackingwithswift.com/100/swiftui/53) |    
 
